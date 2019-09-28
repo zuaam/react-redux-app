@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div, column eight wide{
+    padding-top: 50px;
+    padding-left: 30px;
+    
+}
+/* div, column eight wide{
+    margin-right: 5px;
+} */
+
+#left {
+    margin: auto;
+    padding-left: 130px;
+}
